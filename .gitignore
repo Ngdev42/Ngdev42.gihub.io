@@ -1,41 +1,4 @@
-# ...existing code...
 
-# Blog specific files
-drafts/
-private/
-*.draft.md
-*.private.md
-
-# Static site generators
-public/
-_site/
-.jekyll-cache/
-.jekyll-metadata
-
-# CMS and admin files
-admin/uploads/
-uploads/
-assets/uploads/
-
-# Image optimization cache
-.image-cache/
-
-# Search index files
-search-index.json
-algolia.json
-
-# Analytics and tracking files
-.analytics/
-google*.html
-sitemap.xml.gz
-
-# Theme and template cache
-.theme-cache/
-.template-cache/
-
-# Local development
-.dev/
-dev-server.log
 
 # OS specific files (macOS)
 .DS_Store
@@ -45,10 +8,3 @@ dev-server.log
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Editor specific
-.vscode/settings.json
-.idea/
-*.swp
-*.swo
-*~
