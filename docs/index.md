@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Odyssey Zone"
-  text: "Charting the unknown, line by line."
-  tagline: My great project tagline
+  text: "Building thoughts into bytes."
+  tagline: Charting the unknown, line by line.
   actions:
     - theme: brand
       text: Markdown Examples

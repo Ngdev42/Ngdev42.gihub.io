@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Odyssey Zone",
-  description: "Charting the unknown, line by line.",
+  description: "Building thoughts into bytes.",
   base:'/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
