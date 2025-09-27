@@ -1,3 +1,3 @@
 # Odyssey
 
-Charting the unknown, line by line.
+Building thoughts into bytes.

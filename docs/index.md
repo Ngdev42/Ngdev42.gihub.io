@@ -2,24 +2,22 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-hero:
-  name: "Odyssey Zone"
-  text: "Building thoughts into bytes."
-  tagline: Charting the unknown, line by line.
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+
+<div class="centered">
+  <h1>Chuangyu "Joyu" Ng</h1>
+  <p>Coder, Writer, Creator.</p>
+</div>
+
+<style>
+.centered {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 0.75rem;
+}
+</style>
